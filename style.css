@@ -1,0 +1,22 @@
+.red-bg{
+    background: #00f !important;
+}
+
+.red-bg a, red-bg button{
+    color: white;
+}
+
+.hero{
+    margin: 100px auto;
+}
+
+.bn{
+    width: 100%;
+height: 350px;
+object-fit: cover;
+object-position: center;
+}
+
+.card{
+    margin: 15px auto;
+}
